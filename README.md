@@ -4,6 +4,8 @@
  
  [ENG]
  Calculator developed with HTML5, CSS3 and JavaScript.
+
+ DESAFIO: #7DaysOfCode - Lógica JS 7/7: Funções em Javascript
  
 # Detalhes | Details
 [PT-BR]
